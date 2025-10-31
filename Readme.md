@@ -65,5 +65,6 @@ Omima
 
 🔗 Repository Link
 
-https://github.com/ayan364/Encoder-Only-BERT-Sentiment-Classification
+[https://github.com/ayan364/Encoder-Only-BERT-Sentiment-Classification](https://github.com/Usman-Ifty/Encoder-Only-BERT-Sentiment-Classification?tab=readme-ov-file)
+
 
